@@ -1,4 +1,8 @@
-local key = "FREEKEY"
+local key = "finallyupdate"
+
+-- a very quick note: im cool
+
+-- services
 local TweenService = game:GetService("TweenService")
 local SoundService = game:GetService("SoundService")
 
